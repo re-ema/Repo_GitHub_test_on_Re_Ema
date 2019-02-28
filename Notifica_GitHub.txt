@@ -1,1 +1,2 @@
 Verifica notifica su SourceTree, di un nuovo file fato su GitHub
+2° modifica in locale
